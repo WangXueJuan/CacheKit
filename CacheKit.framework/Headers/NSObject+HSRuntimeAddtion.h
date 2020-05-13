@@ -1,6 +1,6 @@
 //
 //  NSObject+HSRuntimeAddtion.h
-//  HSSortCacheKit
+//  SortCacheKit
 //
 //  Created by 王雪娟 on 15/04/2020.
 //  Copyright © 2020 花色. All rights reserved.

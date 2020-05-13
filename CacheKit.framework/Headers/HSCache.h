@@ -1,6 +1,6 @@
 //
 //  HSCache.h
-//  HSSortCacheKit
+//  SortCacheKit
 //
 //  Created by 王雪娟 on 2020/04/29.
 //Copyright © 2020年 花色. All rights reserved.
