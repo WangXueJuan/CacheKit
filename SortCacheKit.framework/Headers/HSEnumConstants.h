@@ -1,6 +1,6 @@
 //
 //  HSEnumConstants.h
-//  SortCacheKit
+//  HSSortCacheKit
 //
 //  Created by 王雪娟 on 2020/5/11.
 //  Copyright © 2020 王雪娟. All rights reserved.
